@@ -1,3 +1,8 @@
+class Race {
+
+	constructor(private map : number[]) { }
+}
+
 function hello(sexy: string) {
 	return sexy;
 }
